@@ -1,0 +1,3 @@
+#!C:\Users\nati\Desktop\New folder\Venv\Scripts\python.exe
+from numba.pycc import main
+main()
